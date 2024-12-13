@@ -37,16 +37,16 @@
   </a>
 </p>
 
----
-
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.linkedin.com/in/[your-linkedin-profile]" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original-wordmark.svg" alt="LinkedIn" height="30" width="40" />
-  </a>
+<p align = "center">
+
+
+[<img src ="https://img.shields.io/badge/website-%23.svg?&style=for-the-badge&logo=www&logoColor=white%22&color=black">]([https://durgeshsamariya.github.io](https://bikram-portfolio-eight.vercel.app/))
+[<img src="https://img.shields.io/badge/linkedin-%2312100E.svg?&style=for-the-badge&logo=linkedin&logoColor=white&color=black" />](https://www.linkedin.com/in/i-am-bikram-sharma)
+[<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://instagram.com/getuwant)
 </p>
 
----
+
 
 <h3 align="left">Stats:</h3>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=imgrooty&show_icons=true&locale=en&layout=compact" alt="imgrooty" /></p>
@@ -55,10 +55,10 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imgrooty&" alt="imgrooty" /></p>
 
----
+
 
 <h3 align="left">Highlighted Projects:</h3>
-- **[ENTERTAINMENT_APP](https://github.com/imgrooty/ENTERTAINMENT_APP):** A Next.js-based entertainment app with Tailwind CSS for modern UI design.
-- **[Tic-Tac-Toe](https://github.com/imgrooty/Tic-Tac-Toe):** A Python implementation of the classic game.
+[ENTERTAINMENT_APP](https://github.com/imgrooty/ENTERTAINMENT_APP): A Next.js-based entertainment app with Tailwind CSS for modern UI design.
+[Tic-Tac-Toe](https://github.com/imgrooty/Tic-Tac-Toe): A Python implementation of the classic game.
 
 Explore more of my projects [here](https://github.com/imgrooty?tab=repositories).
