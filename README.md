@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm imgrooty</h1>
+<h1 align="center">Hi 👋, I'm Bikram Sharma</h1>
 <h3 align="center">A curious and enthusiastic developer exploring the world of software development.</h3>
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
