@@ -6,7 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imgrooty&label=Profile%20views&color=0e75b6&style=flat" alt="imgrooty" /> </p>
 
-- 🔭 I’m currently working on **ENTERTAINMENT_APP**, built with Next.js and Tailwind CSS.  
+- 🔭 I’m currently working on **SHLOKA_TAB_UI**, a new tab browser extension.  
 
 - 🌱 I’m learning **React.js, Python, and advanced Next.js concepts** to enhance my full-stack development skills.
 
