@@ -19,7 +19,7 @@
 - 💬 Ask me about:  
   `Next.js` • `Tailwind CSS` • `Python` • `Chrome Extensions`
 - ⚡ Fun fact: I once recreated **Tic Tac Toe** in Python just to beat myself at it 😏
-- 📫 How to reach me: [Add your email or contact here]
+- 📫 How to reach me: us08692@gmail.com
 
 ---
 
