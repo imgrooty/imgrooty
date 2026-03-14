@@ -7,7 +7,7 @@
 <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="400" alt="coding-animation">
 
 [![Profile Views](https://komarev.com/ghpvc/?username=imgrooty&label=Profile%20Views&color=0e75b6&style=flat)](https://github.com/imgrooty)
-[![Website](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel)](https://bikram-portfolio-eight.vercel.app/)
+[![Website](https://img.shields.io/badge/Portfolio-Live-brightgreen?style=flat&logo=vercel)](https://devbikram.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/i-am-bikram-sharma)
 
 </div>
@@ -175,7 +175,7 @@ Modern room finding and booking platform with AI-powered recommendations.
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C7B7?style=for-the-badge)](https://bikram-portfolio-eight.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-Visit_Website-00C7B7?style=for-the-badge)](https://devbikram.vercel.app/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-am-bikram-sharma)
 [![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/getuwant)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:us08692@gmail.com)
