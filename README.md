@@ -29,8 +29,7 @@ const bikram = {
     backend: ["Node.js", "Django"],
     tools: ["Git", "VS Code", "Figma"],
   },
-  interests: ["UI/UX Design", "AR/VR", "Women's Empowerment Tech"],
-  philosophy: "Code like poetry, debug like a monk 🧘"
+    philosophy: "Code like poetry, debug like a monk 🧘"
 };
 ```
 
