@@ -107,16 +107,6 @@ A bilingual (Nepali/English) Progressive Web App designed for **women's safety a
 <tr>
 <td width="50%">
 
-### 🧮 ROI Calculator
-Multi-step calculator with ROI visualization and Google Sheets integration for data persistence.
-
-**Tech:** Next.js • Tailwind • Recharts • Google API
-
-[![Repo](https://img.shields.io/badge/View-Repository-blue?style=flat&logo=github)](https://github.com/imgrooty/roi-calculator)
-
-</td>
-<td width="50%">
-
 ### 📿 Shloka Tab UI
 Browser extension with spiritual quotes and customizable themes for a serene new tab experience.
 
