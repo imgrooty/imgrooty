@@ -66,13 +66,8 @@ Shipping product features by day, breaking (then hardening) auth flows by night.
 </table>
 </div>
 
-<br/>
-
 <table width="100%">
 <tr>
-<td width="55%" valign="top">
-<img src="https://github-readme-stats.vercel.app/api?username=imgrooty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444&text_color=C9D1D9&hide_title=true&hide_rank=true" width="100%"/>
-</td>
 <td width="45%" valign="top">
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrooty&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&text_color=C9D1D9" width="100%"/>
 <br/>
