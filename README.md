@@ -46,7 +46,24 @@ Shipping product features by day, breaking (then hardening) auth flows by night.
 ## `⟶` Tech Dashboard
 
 <div align="center">
-<img src="./assets/icon-strip.svg" width="100%" alt="Tech stack icon strip"/>
+<table>
+<tr>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/typescript/DC2626" width="42" height="42" alt="TypeScript"/><br/><sub>TypeScript</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/javascript/EF4444" width="42" height="42" alt="JavaScript"/><br/><sub>JavaScript</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/python/DC2626" width="42" height="42" alt="Python"/><br/><sub>Python</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/react/EF4444" width="42" height="42" alt="React"/><br/><sub>React</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/nextdotjs/DC2626" width="42" height="42" alt="Next.js"/><br/><sub>Next.js</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/django/EF4444" width="42" height="42" alt="Django"/><br/><sub>Django</sub></td>
+</tr>
+<tr>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/tailwindcss/DC2626" width="42" height="42" alt="Tailwind CSS"/><br/><sub>Tailwind</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/figma/EF4444" width="42" height="42" alt="Figma"/><br/><sub>Figma</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/nodedotjs/DC2626" width="42" height="42" alt="Node.js"/><br/><sub>Node.js</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/mysql/EF4444" width="42" height="42" alt="MySQL"/><br/><sub>MySQL</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/git/DC2626" width="42" height="42" alt="Git"/><br/><sub>Git</sub></td>
+<td align="center" width="92"><img src="https://cdn.simpleicons.org/github/EF4444" width="42" height="42" alt="GitHub"/><br/><sub>GitHub</sub></td>
+</tr>
+</table>
 </div>
 
 <br/>
