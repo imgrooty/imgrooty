@@ -1,7 +1,6 @@
 <div align="center">
 <img src="./assets/hero-banner.svg" width="100%" alt="Bikram Sharma — Full-Stack Developer, Cyber Security Enthusiast"/>
 </div>
-
 <div align="center">
 <a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=DC2626&labelColor=000000" /></a>
 <a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=DC2626&labelColor=000000" /></a>
@@ -9,7 +8,6 @@
 <a href="https://instagram.com/getuwant"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=DC2626&labelColor=000000" /></a>
 <img src="https://komarev.com/ghpvc/?username=imgrooty&label=PROFILE+VIEWS&color=DC2626&style=for-the-badge&labelColor=000000" />
 </div>
-
 <img src="./assets/divider.svg" width="100%"/>
 
 ## `⟶` About
