@@ -71,19 +71,37 @@ currently: Shipping fast, learning faster
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:000000&height=2&width=100%" width="100%"/>
 
 ## `⟶` Pinned Work
-<div align="center">
-<a href="https://github.com/imgrooty/RestroWala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=RestroWala&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
-<a href="https://github.com/imgrooty/MithiliMata"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=MithiliMata&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
-<a href="https://github.com/imgrooty/easyroom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=easyroom&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
-<a href="https://github.com/imgrooty/HeritageArchive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=HeritageArchive&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
-</div>
+<table width="100%">
+<tr>
+<td width="50%">
+
+**[RestroWala](https://github.com/imgrooty/RestroWala)**
+<br/>![Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=DC2626)
+</td>
+<td width="50%">
+
+**[MithiliMata](https://github.com/imgrooty/MithiliMata)**
+<br/>![Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=EF4444)
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+**[easyroom](https://github.com/imgrooty/easyroom)**
+<br/>![Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=DC2626)
+</td>
+<td width="50%">
+
+**[HeritageArchive](https://github.com/imgrooty/HeritageArchive)**
+<br/>![Repo](https://img.shields.io/badge/View_Repo-000000?style=flat-square&logo=github&logoColor=EF4444)
+</td>
+</tr>
+</table>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:DC2626&height=2&width=100%" width="100%"/>
 
 ## `⟶` Analytics
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imgrooty&theme=tokyonight&hide_border=true&background=000000&ring=DC2626&fire=EF4444&currStreakLabel=EF4444&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" width="100%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrooty&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&text_color=C9D1D9&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imgrooty&theme=react-dark&bg_color=000000&color=EF4444&line=DC2626&point=C9D1D9&hide_border=true" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imgrooty&theme=react-dark&bg_color=000000&color=EF4444&line=DC2626&point=C9D1D9&hide_border=true" width="100%"/>
 </div>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:000000&height=2&width=100%" width="100%"/>
 
