@@ -1,97 +1,145 @@
 <div align="center">
 
-# 👋 Hey, I'm Bikram Sharma
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1033,100:0D1117&height=220&section=header&text=Bikram%20Sharma&fontSize=52&fontColor=8B5CF6&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=06B6D4" width="100%"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&duration=2200&pause=900&color=22D3EE&center=true&vCenter=true&multiline=true&width=900&height=90&lines=Full-Stack+Developer;Cyber+Security+Enthusiast;Building+Social+Impact+Tech+with+Modern+Web+Stacks" alt="typing animation" />
+<br/>
 
-<img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="420" alt="coding animation" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=750&height=50&lines=Building+Social+Impact+Tech+%F0%9F%9A%80;Modern+Web+Stacks+%2B+Practical+Security+%F0%9F%94%90;Shipping+Products+That+Matter+%E2%9C%A8" alt="typing animation"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=imgrooty&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/imgrooty)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Live-22c55e?style=for-the-badge&logo=vercel&logoColor=white)](https://devbikram.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-am-bikram-sharma)
+<br/><br/>
 
-</div>
+<a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=8B5CF6&labelColor=0D1117" /></a>
+<a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=06B6D4&labelColor=0D1117" /></a>
+<a href="mailto:us08692@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0D1117" /></a>
+<a href="https://instagram.com/getuwant"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=06B6D4&labelColor=0D1117" /></a>
 
----
-
-## ⚡ About Me
-
-- 🇳🇵 Based in Nepal
-- 🧠 Focused on full-stack product engineering and practical security
-- 🚀 Building meaningful products with modern web tech and strong UX
-- 🎯 Current tracks: AR experiences, social impact platforms, and high-quality PWAs
-
----
-
-## 🧰 Tools & Technologies
-
-<div align="center">
-
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=000)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<img src="https://komarev.com/ghpvc/?username=imgrooty&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0D1117" />
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&width=100%" width="100%"/>
 
-## 📌 Pinned Projects
+## `⟶` About
+
+<table width="100%">
+<tr>
+<td width="60%" valign="top">
+
+```yaml
+name:      Bikram Sharma
+location:  Nepal 🇳🇵
+role:      Full-Stack Developer
+focus:     Product Engineering + Applied Security
+building:  AR Experiences · Social Impact Platforms · PWAs
+currently: Shipping fast, learning faster
+```
+
+</td>
+<td width="40%" valign="top">
+
+<img src="https://github-readme-stats.vercel.app/api?username=imgrooty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&hide_title=true&hide_rank=true" width="100%"/>
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:8B5CF6&height=2&width=100%" width="100%"/>
+
+## `⟶` Tech Dashboard
+
+<table width="100%">
+<tr>
+<td align="center" width="25%">
+
+**Languages**
+<br/>
+
+![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=8B5CF6)
+![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=06B6D4)
+![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=8B5CF6)
+
+</td>
+<td align="center" width="25%">
+
+**Frameworks**
+<br/>
+
+![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=06B6D4)
+![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=8B5CF6)
+![Django](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=06B6D4)
+
+</td>
+<td align="center" width="25%">
+
+**Styling**
+<br/>
+
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=8B5CF6)
+![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=06B6D4)
+
+</td>
+<td align="center" width="25%">
+
+**Infra & Tools**
+<br/>
+
+![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=8B5CF6)
+![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=06B6D4)
+![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=8B5CF6)
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&width=100%" width="100%"/>
+
+## `⟶` Pinned Work
 
 <div align="center">
 
 <a href="https://github.com/imgrooty/RestroWala">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=RestroWala&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="RestroWala" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=RestroWala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 <a href="https://github.com/imgrooty/MithiliMata">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=MithiliMata&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="MithiliMata" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=MithiliMata&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
+<br/>
 <a href="https://github.com/imgrooty/easyroom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=easyroom&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="easyroom" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=easyroom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 <a href="https://github.com/imgrooty/HeritageArchive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=HeritageArchive&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="HeritageArchive" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=HeritageArchive&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
 </a>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:8B5CF6&height=2&width=100%" width="100%"/>
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imgrooty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&icon_color=22D3EE&text_color=C9D1D9" height="165" alt="GitHub stats" />
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imgrooty&theme=tokyonight&hide_border=true&background=0D1117&ring=22D3EE&fire=22D3EE&currStreakLabel=22D3EE" height="165" alt="GitHub streak" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrooty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=22D3EE&text_color=C9D1D9" height="165" alt="Top languages" />
-
-</div>
-
----
-
-## 🌐 Connect
+## `⟶` Analytics
 
 <div align="center">
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-00C7B7?style=for-the-badge&logo=vercel&logoColor=white)](https://devbikram.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/i-am-bikram-sharma)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/getuwant)
-[![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:us08692@gmail.com)
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imgrooty&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" width="100%"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrooty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imgrooty&theme=react-dark&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=C9D1D9&hide_border=true" width="49%"/>
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&width=100%" width="100%"/>
 
 <div align="center">
 
-> _Code like poetry, debug like a monk._ 🧘
+### `⟶` Let's Build Something
+
+<a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:us08692@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+
+<br/><br/>
+
+*"Code like poetry, debug like a monk."* 🧘
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1033,100:0D1117&height=100&section=footer" width="100%"/>
