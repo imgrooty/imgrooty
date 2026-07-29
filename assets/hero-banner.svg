@@ -1,9 +1,5 @@
 <svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
   <defs>
-    <style>
-      @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@400;600;700&display=swap');
-    </style>
-
     <!-- background gradient -->
     <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#000000"/>
@@ -81,7 +77,7 @@
     </g>
 
     <!-- main title -->
-    <text x="600" y="150" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', 'Courier New', monospace"
+    <text x="600" y="150" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace"
       font-size="64" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="4">
       BIKRAM SHARMA
     </text>
@@ -94,7 +90,7 @@
     </path>
 
     <!-- subtitle, fading/typing reveal via clip -->
-    <g font-family="'Fira Code', 'JetBrains Mono', monospace" font-size="20" fill="#f5b8b8">
+    <g font-family="'JetBrains Mono', monospace" font-size="20" fill="#f5b8b8">
       <text x="600" y="225" text-anchor="middle" opacity="0">
         Full-Stack Developer &#183; Cyber Security Enthusiast
         <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.6s" fill="freeze"/>
@@ -102,7 +98,7 @@
     </g>
 
     <!-- tagline -->
-    <text x="600" y="268" text-anchor="middle" font-family="'Fira Code', 'JetBrains Mono', monospace"
+    <text x="600" y="268" text-anchor="middle" font-family="'JetBrains Mono', monospace"
       font-size="14" fill="#7a2c2c" opacity="0" letter-spacing="2">
       BUILDING SOCIAL-IMPACT TECH · SHIPPING PRODUCTS THAT MATTER
       <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.4s" fill="freeze"/>
