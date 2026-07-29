@@ -120,8 +120,6 @@ Shipping product features by day, breaking (then hardening) auth flows by night.
 
 ## `⟶` Contribution Snake
 
-A real, animated snake that eats through my contribution graph — regenerated daily by [`.github/workflows/snake.yml`](./.github/workflows/snake.yml) using the [Platane/snk](https://github.com/Platane/snk) action, committed to the `output` branch and served via raw GitHub content.
-
 <div align="center">
 
 <picture>
@@ -131,8 +129,6 @@ A real, animated snake that eats through my contribution graph — regenerated d
 </picture>
 
 </div>
-
-> **Setup note:** the image above won't render until the workflow runs at least once. Push this repo (or trigger it manually from the *Actions* tab), let it finish, then it'll auto-refresh daily. If your GitHub username isn't `imgrooty`, update `github_user_name` in the workflow file and the two `raw.githubusercontent.com` URLs above to match.
 
 <img src="./assets/divider.svg" width="100%"/>
 
