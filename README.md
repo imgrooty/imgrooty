@@ -1,26 +1,17 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2B0000,100:000000&height=190&section=header&text=Bikram%20Sharma&fontSize=48&fontColor=DC2626&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=56&descSize=17&descColor=EF4444" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1033,100:0D1117&height=220&section=header&text=Bikram%20Sharma&fontSize=52&fontColor=8B5CF6&fontAlignY=38&animation=fadeIn&desc=Full-Stack%20Developer%20%7C%20Cyber%20Security%20Enthusiast&descAlignY=58&descSize=18&descColor=06B6D4" width="100%"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=EF4444&center=true&vCenter=true&width=750&height=40&lines=Building+Social+Impact+Tech+%F0%9F%9A%80;Modern+Web+Stacks+%2B+Practical+Security+%F0%9F%94%90;Shipping+Products+That+Matter+%E2%9C%A8" alt="typing animation"/>
 
-<br/>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&duration=2600&pause=900&color=06B6D4&center=true&vCenter=true&width=750&height=50&lines=Building+Social+Impact+Tech+%F0%9F%9A%80;Modern+Web+Stacks+%2B+Practical+Security+%F0%9F%94%90;Shipping+Products+That+Matter+%E2%9C%A8" alt="typing animation"/>
-
-<br/><br/>
-
-<a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-0D1117?style=for-the-badge&logo=vercel&logoColor=8B5CF6&labelColor=0D1117" /></a>
-<a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LINKEDIN-0D1117?style=for-the-badge&logo=linkedin&logoColor=06B6D4&labelColor=0D1117" /></a>
-<a href="mailto:us08692@gmail.com"><img src="https://img.shields.io/badge/EMAIL-0D1117?style=for-the-badge&logo=gmail&logoColor=8B5CF6&labelColor=0D1117" /></a>
-<a href="https://instagram.com/getuwant"><img src="https://img.shields.io/badge/INSTAGRAM-0D1117?style=for-the-badge&logo=instagram&logoColor=06B6D4&labelColor=0D1117" /></a>
-
-<img src="https://komarev.com/ghpvc/?username=imgrooty&label=PROFILE+VIEWS&color=8B5CF6&style=for-the-badge&labelColor=0D1117" />
-
+<a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-000000?style=for-the-badge&logo=vercel&logoColor=DC2626&labelColor=000000" /></a>
+<a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LINKEDIN-000000?style=for-the-badge&logo=linkedin&logoColor=DC2626&labelColor=000000" /></a>
+<a href="mailto:us08692@gmail.com"><img src="https://img.shields.io/badge/EMAIL-000000?style=for-the-badge&logo=gmail&logoColor=DC2626&labelColor=000000" /></a>
+<a href="https://instagram.com/getuwant"><img src="https://img.shields.io/badge/INSTAGRAM-000000?style=for-the-badge&logo=instagram&logoColor=DC2626&labelColor=000000" /></a>
+<img src="https://komarev.com/ghpvc/?username=imgrooty&label=PROFILE+VIEWS&color=DC2626&style=for-the-badge&labelColor=000000" />
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:000000&height=2&width=100%" width="100%"/>
 
 ## `⟶` About
-
 <table width="100%">
 <tr>
 <td width="60%" valign="top">
@@ -33,113 +24,76 @@ focus:     Product Engineering + Applied Security
 building:  AR Experiences · Social Impact Platforms · PWAs
 currently: Shipping fast, learning faster
 ```
-
 </td>
 <td width="40%" valign="top">
-
-<img src="https://github-readme-stats.vercel.app/api?username=imgrooty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4&text_color=C9D1D9&hide_title=true&hide_rank=true" width="100%"/>
-
+<img src="https://github-readme-stats.vercel.app/api?username=imgrooty&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444&text_color=C9D1D9&hide_title=true&hide_rank=true" width="100%"/>
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:8B5CF6&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:DC2626&height=2&width=100%" width="100%"/>
 
 ## `⟶` Tech Dashboard
-
 <table width="100%">
 <tr>
 <td align="center" width="25%">
 
 **Languages**
-<br/>
 
-![TypeScript](https://img.shields.io/badge/-TypeScript-0D1117?style=flat-square&logo=typescript&logoColor=8B5CF6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=flat-square&logo=javascript&logoColor=06B6D4)
-![Python](https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=python&logoColor=8B5CF6)
-
+![TypeScript](https://img.shields.io/badge/-TypeScript-000000?style=flat-square&logo=typescript&logoColor=DC2626)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000000?style=flat-square&logo=javascript&logoColor=EF4444)
+![Python](https://img.shields.io/badge/-Python-000000?style=flat-square&logo=python&logoColor=DC2626)
 </td>
 <td align="center" width="25%">
 
 **Frameworks**
-<br/>
 
-![React](https://img.shields.io/badge/-React-0D1117?style=flat-square&logo=react&logoColor=06B6D4)
-![Next.js](https://img.shields.io/badge/-Next.js-0D1117?style=flat-square&logo=nextdotjs&logoColor=8B5CF6)
-![Django](https://img.shields.io/badge/-Django-0D1117?style=flat-square&logo=django&logoColor=06B6D4)
-
+![React](https://img.shields.io/badge/-React-000000?style=flat-square&logo=react&logoColor=EF4444)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=DC2626)
+![Django](https://img.shields.io/badge/-Django-000000?style=flat-square&logo=django&logoColor=EF4444)
 </td>
 <td align="center" width="25%">
 
 **Styling**
-<br/>
 
-![Tailwind](https://img.shields.io/badge/-TailwindCSS-0D1117?style=flat-square&logo=tailwindcss&logoColor=8B5CF6)
-![Figma](https://img.shields.io/badge/-Figma-0D1117?style=flat-square&logo=figma&logoColor=06B6D4)
-
+![Tailwind](https://img.shields.io/badge/-TailwindCSS-000000?style=flat-square&logo=tailwindcss&logoColor=DC2626)
+![Figma](https://img.shields.io/badge/-Figma-000000?style=flat-square&logo=figma&logoColor=EF4444)
 </td>
 <td align="center" width="25%">
 
 **Infra & Tools**
-<br/>
 
-![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=flat-square&logo=nodedotjs&logoColor=8B5CF6)
-![MySQL](https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=06B6D4)
-![Git](https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=8B5CF6)
-
+![Node.js](https://img.shields.io/badge/-Node.js-000000?style=flat-square&logo=nodedotjs&logoColor=DC2626)
+![MySQL](https://img.shields.io/badge/-MySQL-000000?style=flat-square&logo=mysql&logoColor=EF4444)
+![Git](https://img.shields.io/badge/-Git-000000?style=flat-square&logo=git&logoColor=DC2626)
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:000000&height=2&width=100%" width="100%"/>
 
 ## `⟶` Pinned Work
-
 <div align="center">
-
-<a href="https://github.com/imgrooty/RestroWala">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=RestroWala&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-</a>
-<a href="https://github.com/imgrooty/MithiliMata">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=MithiliMata&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-</a>
-<br/>
-<a href="https://github.com/imgrooty/easyroom">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=easyroom&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-</a>
-<a href="https://github.com/imgrooty/HeritageArchive">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=HeritageArchive&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&icon_color=06B6D4" />
-</a>
-
+<a href="https://github.com/imgrooty/RestroWala"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=RestroWala&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
+<a href="https://github.com/imgrooty/MithiliMata"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=MithiliMata&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
+<a href="https://github.com/imgrooty/easyroom"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=easyroom&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
+<a href="https://github.com/imgrooty/HeritageArchive"><img src="https://github-readme-stats.vercel.app/api/pin/?username=imgrooty&repo=HeritageArchive&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&icon_color=EF4444" /></a>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:06B6D4,100:8B5CF6&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:DC2626&height=2&width=100%" width="100%"/>
 
 ## `⟶` Analytics
-
 <div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=imgrooty&theme=tokyonight&hide_border=true&background=0D1117&ring=8B5CF6&fire=06B6D4&currStreakLabel=06B6D4&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" width="100%"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrooty&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=8B5CF6&text_color=C9D1D9&langs_count=8" width="49%"/>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=imgrooty&theme=react-dark&bg_color=0D1117&color=06B6D4&line=8B5CF6&point=C9D1D9&hide_border=true" width="49%"/>
-
+<img src="https://github-readme-streak-stats.herokuapp.com?user=imgrooty&theme=tokyonight&hide_border=true&background=000000&ring=DC2626&fire=EF4444&currStreakLabel=EF4444&sideLabels=C9D1D9&currStreakNum=C9D1D9&sideNums=C9D1D9&dates=8b949e" width="100%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imgrooty&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000&title_color=DC2626&text_color=C9D1D9&langs_count=8" width="49%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=imgrooty&theme=react-dark&bg_color=000000&color=EF4444&line=DC2626&point=C9D1D9&hide_border=true" width="49%"/>
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:8B5CF6,100:06B6D4&height=2&width=100%" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:DC2626,100:000000&height=2&width=100%" width="100%"/>
 
 <div align="center">
 
 ### `⟶` Let's Build Something
-
-<a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=vercel&logoColor=white" /></a>
-<a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LinkedIn-06B6D4?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="mailto:us08692@gmail.com"><img src="https://img.shields.io/badge/Email-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-
-<br/><br/>
+<a href="https://devbikram.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-DC2626?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/i-am-bikram-sharma"><img src="https://img.shields.io/badge/LinkedIn-DC2626?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:us08692@gmail.com"><img src="https://img.shields.io/badge/Email-DC2626?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 *"Code like poetry, debug like a monk."* 🧘
-
 </div>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:1B1033,100:0D1117&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:2B0000,100:000000&height=90&section=footer" width="100%"/>
