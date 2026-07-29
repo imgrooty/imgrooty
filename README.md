@@ -65,7 +65,7 @@ Shipping product features by day, breaking (then hardening) auth flows by night.
 </tr>
 </table>
 </div>
-
+<div align="center">
 <table width="100%">
 <tr>
 <td width="45%" valign="top">
@@ -75,12 +75,12 @@ Shipping product features by day, breaking (then hardening) auth flows by night.
 </td>
 </tr>
 </table>
-
+</div>
 <img src="./assets/divider.svg" width="100%"/>
 
 ## `⟶` Pinned Work
 
-<table width="100%">
+<table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 
