@@ -1,0 +1,92 @@
+<svg viewBox="0 0 1200 130" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="tileGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#141414"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+    <style>
+      .tile { stroke: #3a0d0d; stroke-width: 1.5; }
+      .glyph { stroke: #EF4444; stroke-width: 2.4; fill: none; stroke-linecap: round; stroke-linejoin: round; }
+      .label { fill: #b45757; font-family: 'JetBrains Mono', monospace; font-size: 12px; letter-spacing: 1px; }
+      .pulse { animation: pulseGlow 2.6s ease-in-out infinite; }
+      @keyframes pulseGlow {
+        0%, 100% { stroke-opacity: 0.55; }
+        50% { stroke-opacity: 1; }
+      }
+    </style>
+  </defs>
+
+  <!-- 8 tiles, 140px pitch, 20px gap, tile size 120x100 -->
+  <g transform="translate(10,10)">
+
+    <!-- TypeScript -->
+    <g transform="translate(0,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M30 35 H70 M50 35 V75 M70 45 q18 -8 18 5 q0 10 -13 10 q13 0 13 10 q0 13 -18 5"/>
+      <text x="60" y="94" text-anchor="middle" class="label">TS</text>
+    </g>
+
+    <!-- JavaScript -->
+    <g transform="translate(140,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M45 30 V65 q0 14 -14 14 q-10 0 -13 -8 M78 30 q18 0 18 12 q0 10 -14 12 q16 2 16 13 q0 14 -20 14"/>
+      <text x="60" y="94" text-anchor="middle" class="label">JS</text>
+    </g>
+
+    <!-- Python -->
+    <g transform="translate(280,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M60 28 q-22 0 -22 16 v10 h30 v6 H32 q-10 0 -10 18 q0 18 14 18 h10 v-14 q0 -12 12 -12 h24 q12 0 12 -12 v-14 q0 -16 -20 -16 z"/>
+      <circle cx="50" cy="38" r="2.4" fill="#EF4444" class="pulse"/>
+      <circle cx="70" cy="82" r="2.4" fill="#EF4444" class="pulse"/>
+      <text x="60" y="94" text-anchor="middle" class="label">PY</text>
+    </g>
+
+    <!-- React (orbiting ellipses) -->
+    <g transform="translate(420,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <g transform="translate(60,48)">
+        <circle r="6" fill="#EF4444" class="pulse"/>
+        <ellipse class="glyph" rx="34" ry="13"/>
+        <ellipse class="glyph" rx="34" ry="13" transform="rotate(60)"/>
+        <ellipse class="glyph" rx="34" ry="13" transform="rotate(120)">
+          <animateTransform attributeName="transform" type="rotate" from="120" to="480" dur="6s" repeatCount="indefinite"/>
+        </ellipse>
+      </g>
+      <text x="60" y="94" text-anchor="middle" class="label">REACT</text>
+    </g>
+
+    <!-- Node (hexagon) -->
+    <g transform="translate(560,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M60 26 L88 41 V71 L60 86 L32 71 V41 Z M60 42 V70 M46 50 v14 M74 50 v14"/>
+      <text x="60" y="94" text-anchor="middle" class="label">NODE</text>
+    </g>
+
+    <!-- Git (branch) -->
+    <g transform="translate(700,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M45 30 V70 M45 45 q0 18 20 18 h10"/>
+      <circle cx="45" cy="30" r="6" class="glyph"/>
+      <circle cx="45" cy="70" r="6" class="glyph"/>
+      <circle cx="75" cy="63" r="6" class="glyph"/>
+      <text x="60" y="94" text-anchor="middle" class="label">GIT</text>
+    </g>
+
+    <!-- Django (D monogram, arch) -->
+    <g transform="translate(840,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M38 28 v40 q0 12 14 12 q18 0 18 -18 v-34 M56 46 h14"/>
+      <path class="glyph" d="M78 28 v34" opacity="0.6"/>
+      <text x="60" y="94" text-anchor="middle" class="label">DJANGO</text>
+    </g>
+
+    <!-- Tailwind (wave) -->
+    <g transform="translate(980,0)">
+      <rect class="tile" width="120" height="100" rx="16" fill="url(#tileGrad)"/>
+      <path class="glyph pulse" d="M28 48 q10 -14 24 0 t24 0 t24 0 M28 62 q10 -14 24 0 t24 0 t24 0"/>
+      <text x="60" y="94" text-anchor="middle" class="label">TAILWIND</text>
+    </g>
+
+  </g>
+</svg>

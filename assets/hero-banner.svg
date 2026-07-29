@@ -1,0 +1,107 @@
+<svg viewBox="0 0 1200 320" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+  <defs>
+    <!-- background gradient -->
+    <linearGradient id="bgGrad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#000000"/>
+      <stop offset="45%" stop-color="#1a0000"/>
+      <stop offset="55%" stop-color="#2b0000"/>
+      <stop offset="100%" stop-color="#000000"/>
+    </linearGradient>
+
+    <radialGradient id="blobGrad1" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#DC2626" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#DC2626" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobGrad2" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#EF4444" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#EF4444" stop-opacity="0"/>
+    </radialGradient>
+    <radialGradient id="blobGrad3" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="#7f1d1d" stop-opacity="0.5"/>
+      <stop offset="100%" stop-color="#7f1d1d" stop-opacity="0"/>
+    </radialGradient>
+
+    <linearGradient id="textGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#ffffff"/>
+      <stop offset="55%" stop-color="#ff8a8a"/>
+      <stop offset="100%" stop-color="#DC2626"/>
+    </linearGradient>
+
+    <filter id="glow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur in="SourceGraphic" stdDeviation="6" result="blur1">
+        <animate attributeName="stdDeviation" values="4;9;4" dur="3.2s" repeatCount="indefinite"/>
+      </feGaussianBlur>
+      <feColorMatrix in="blur1" mode="matrix"
+        values="1 0 0 0 0  0 0 0 0 0  0 0 0 0 0  0 0 0 18 -6" result="glowColor"/>
+      <feMerge>
+        <feMergeNode in="glowColor"/>
+        <feMergeNode in="SourceGraphic"/>
+      </feMerge>
+    </filter>
+
+    <filter id="softBlur"><feGaussianBlur stdDeviation="28"/></filter>
+
+    <clipPath id="frame">
+      <rect x="0" y="0" width="1200" height="320" rx="18"/>
+    </clipPath>
+  </defs>
+
+  <g clip-path="url(#frame)">
+    <rect width="1200" height="320" fill="url(#bgGrad)"/>
+
+    <!-- floating blobs -->
+    <g filter="url(#softBlur)">
+      <circle cx="150" cy="80" r="120" fill="url(#blobGrad1)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 40 30; -20 10; 0 0" dur="9s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="1050" cy="240" r="150" fill="url(#blobGrad2)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -50 -20; 25 15; 0 0" dur="11s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="620" cy="290" r="100" fill="url(#blobGrad3)">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; 30 -25; -35 5; 0 0" dur="7.5s" repeatCount="indefinite"/>
+      </circle>
+      <circle cx="950" cy="40" r="90" fill="url(#blobGrad1)" opacity="0.7">
+        <animateTransform attributeName="transform" type="translate"
+          values="0 0; -25 20; 15 -10; 0 0" dur="8.4s" repeatCount="indefinite"/>
+      </circle>
+    </g>
+
+    <!-- faint grid texture -->
+    <g stroke="#ffffff" stroke-opacity="0.03">
+      <line x1="0" y1="80" x2="1200" y2="80"/>
+      <line x1="0" y1="160" x2="1200" y2="160"/>
+      <line x1="0" y1="240" x2="1200" y2="240"/>
+    </g>
+
+    <!-- main title -->
+    <text x="600" y="150" text-anchor="middle" font-family="'JetBrains Mono', 'Courier New', monospace"
+      font-size="64" font-weight="700" fill="url(#textGrad)" filter="url(#glow)" letter-spacing="4">
+      BIKRAM SHARMA
+    </text>
+
+    <!-- drawn underline beneath title -->
+    <path id="underline" d="M 330 178 C 460 195, 740 195, 870 178"
+      fill="none" stroke="#DC2626" stroke-width="4" stroke-linecap="round"
+      stroke-dasharray="560" stroke-dashoffset="560">
+      <animate attributeName="stroke-dashoffset" from="560" to="0" dur="1.4s" begin="0.3s" fill="freeze"/>
+    </path>
+
+    <!-- subtitle, fading/typing reveal via clip -->
+    <g font-family="'JetBrains Mono', monospace" font-size="20" fill="#f5b8b8">
+      <text x="600" y="225" text-anchor="middle" opacity="0">
+        Full-Stack Developer &#183; Cyber Security Enthusiast
+        <animate attributeName="opacity" from="0" to="1" dur="1s" begin="1.6s" fill="freeze"/>
+      </text>
+    </g>
+
+    <!-- tagline -->
+    <text x="600" y="268" text-anchor="middle" font-family="'JetBrains Mono', monospace"
+      font-size="14" fill="#7a2c2c" opacity="0" letter-spacing="2">
+      BUILDING SOCIAL-IMPACT TECH · SHIPPING PRODUCTS THAT MATTER
+      <animate attributeName="opacity" from="0" to="1" dur="1s" begin="2.4s" fill="freeze"/>
+    </text>
+  </g>
+</svg>
